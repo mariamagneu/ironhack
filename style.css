@@ -33,6 +33,8 @@ h2 {
     text-align: center;
     text-transform: uppercase;
     line-height: 4em;
+    color: white;
+    text-shadow: #020819 8px -20px 9px;
 }
 
 h3 {
@@ -55,3 +57,19 @@ h5 {
 .nav-bar {
     background-color: rgb(25, 33, 41);
 }
+
+.nav-bar a{
+    color: white;
+    text-decoration: none;
+    font-size: 2em;
+}
+
+.header {
+    background-image: url(https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/ironhack-skydive-background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+
+h2
