@@ -27,3 +27,31 @@ h1 {
     text-align: center;
     text-transform: uppercase;
 }
+
+h2 {
+    font-size: 5em;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 4em;
+}
+
+h3 {
+    font-size: 4.2em;
+    text-align: center;
+    line-height: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    letter-spacing: 0.4px;
+    line-height: 1em;
+}
+
+h5 {
+    font-size: 1.2em;
+    line-height: 1em;
+}
+
+.nav-bar {
+    background-color: rgb(25, 33, 41);
+}
