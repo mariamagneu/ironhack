@@ -72,4 +72,6 @@ h5 {
     height: 650px;
 }
 
-h2
+.quote {
+    font-size: 2.5em;
+}
