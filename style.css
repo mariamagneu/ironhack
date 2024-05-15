@@ -105,3 +105,35 @@ h5 {
 .service-box img{
     width: 125px;
 }
+
+#team .section-text {
+    font-size: 1.9em;
+    text-align: center;
+}
+
+#team .member-name {
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+#team img {
+    width: 250px;
+    height: 180px;
+}
+
+.address {
+    font-style: normal;
+    font-size: 0.8em;
+}
+
+.footer {
+    text-align: center;
+}
+.footer a {
+    color: rgb(67, 163, 230);
+    text-decoration: none;
+}
+
+.footer ul {
+    list-style: none;
+}
