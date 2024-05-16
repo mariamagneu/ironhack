@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700');
 
-html,
-body {
+html ,
+body  {
     margin: 0;
     padding: 0;
 }
@@ -41,21 +41,27 @@ h3 {
     font-size: 4.2em;
     text-align: center;
     line-height: 1em;
+    margin: 0;
+
 }
 
 h4 {
     font-size: 1.5em;
     letter-spacing: 0.4px;
     line-height: 1em;
+    margin: 0;
+
 }
 
 h5 {
     font-size: 1.2em;
     line-height: 1em;
+    margin: 0;
 }
 
 .nav-bar {
     background-color: rgb(25, 33, 41);
+    padding:  14px, 0, 14px, 0;
 }
 
 .nav-bar a{
@@ -64,6 +70,16 @@ h5 {
     font-size: 2em;
 }
 
+.nav-bar-ul {
+    width: 1200px;
+    margin: 0, auto;
+    padding: 0;
+
+}
+
+.nav-bar-ul li {
+    list-style: none;
+}
 .header {
     background-image: url(https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/ironhack-skydive-background.jpg);
     background-position: center;
@@ -128,6 +144,7 @@ h5 {
 
 .footer {
     text-align: center;
+    font-size: 1.9em;
 }
 .footer a {
     color: rgb(67, 163, 230);
@@ -136,4 +153,5 @@ h5 {
 
 .footer ul {
     list-style: none;
+    padding: 0;
 }
