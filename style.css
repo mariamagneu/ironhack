@@ -71,7 +71,6 @@ h5 {
 }
 
 .nav-bar-ul {
-    width: 1200px;
     margin: 0, auto;
     padding: 0;
 
@@ -79,6 +78,8 @@ h5 {
 
 .nav-bar-ul li {
     list-style: none;
+    list-style-type: none;
+    text-align: center;
 }
 .header {
     background-image: url(https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/ironhack-skydive-background.jpg);
