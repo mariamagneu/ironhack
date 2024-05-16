@@ -225,3 +225,23 @@ td {
     align-items: center;
     width: 370px;
 }
+
+#structure > div {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#team > div {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#team > div > article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+}
