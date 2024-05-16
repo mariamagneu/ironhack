@@ -192,3 +192,10 @@ h5 {
     margin: 0 auto 40px auto;
     font-size: 1.5em;
 }
+
+.schedule-table th,
+td {
+    border-bottom: solid 1px black;
+    text-align: center;
+    padding: 5px 10px;
+}
