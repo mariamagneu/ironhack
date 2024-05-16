@@ -153,7 +153,7 @@ h5 {
     height: 180px;
 }
 
-#team .hr {
+#team hr {
     margin: 20px auto 30px auto;
     width: 40%;
 }
@@ -186,4 +186,9 @@ h5 {
     width: 1200px;
     margin: 0 auto;
     padding: 75px 0;
+}
+
+.schedule-table {
+    margin: 0 auto 40px auto;
+    font-size: 1.5em;
 }
