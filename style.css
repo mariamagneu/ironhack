@@ -180,6 +180,9 @@ h5 {
     text-align: center;
     font-size: 1.9em;
     padding: 40px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 .footer address {
     margin: 30px
@@ -242,6 +245,9 @@ td {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
 
-
+.map-frame {
+    height: 375px;
+    width: 60%;
 }
